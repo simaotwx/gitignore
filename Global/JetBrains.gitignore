@@ -23,6 +23,9 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+# Copilot
+.idea/copilot
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
